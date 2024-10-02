@@ -44,3 +44,4 @@ Then do npm start
 
 Website should launch locally in browser.
 ### [Documentation](https://github.com/tristingreenstein/Social-Media-Web-Application/wiki/Documentation)
+# Social_Media_Web_Application
